@@ -22,7 +22,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author DaKa
+ * karol martinez cuellar
  */
 public class Compañia_50empleados {
 
